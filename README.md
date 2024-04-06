@@ -7,6 +7,9 @@
 ## Simulação
 [Wokwi - ICR-Edge](https://wokwi.com/projects/394377180726921217)
 
+## Vídeo
+[Vídeo Explicativo](FIAP-Challenge-Sprint3-Edge.mp4)
+
 ## Descrição do Problema
 O Instituto Médico da Criança (ICR) busca fornecer informações e recursos importantes para seus pacientes e suas famílias de forma acessível e conveniente. No entanto, o acesso a essas informações pode ser limitado devido a restrições físicas ou de tempo. Portanto, é crucial disponibilizar um método eficiente para acessar recursos online, como páginas da web, aplicativos ou documentos relevantes.
 
